@@ -1,2 +1,2 @@
 # panama-cancer-clinic
-Reengineering panamacancerclinic.com using the Bootstrap Framework
+Reengineering [Panama Cancer Clinic's Website](panamacancerclinic.com) using the Bootstrap Framework.
