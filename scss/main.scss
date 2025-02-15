@@ -1,0 +1,30 @@
+$primary: #00567f;
+$secondary: #0274be;
+$light: #d6edf7;
+
+@import "../node_modules/@fontsource/nunito-sans/index.css";
+@import "../node_modules/@fontsource/poppins/index.css";
+
+// import nunito sans fonts
+@import "../node_modules/@fontsource/nunito-sans/200.css";
+@import "../node_modules/@fontsource/nunito-sans/300.css";
+@import "../node_modules/@fontsource/nunito-sans/400.css";
+@import "../node_modules/@fontsource/nunito-sans/600.css";
+@import "../node_modules/@fontsource/nunito-sans/700.css";
+@import "../node_modules/@fontsource/nunito-sans/800.css";
+@import "../node_modules/@fontsource/nunito-sans/900.css";
+@import "../node_modules/@fontsource/nunito-sans/200-italic.css";
+@import "../node_modules/@fontsource/nunito-sans/300-italic.css";
+@import "../node_modules/@fontsource/nunito-sans/400-italic.css";
+@import "../node_modules/@fontsource/nunito-sans/600-italic.css";
+@import "../node_modules/@fontsource/nunito-sans/700-italic.css";
+@import "../node_modules/@fontsource/nunito-sans/800-italic.css";
+@import "../node_modules/@fontsource/nunito-sans/900-italic.css";
+
+@import "../node_modules/bootstrap/scss/_functions.scss";
+@import "../node_modules/bootstrap/scss/variables";
+
+$font-family-sans-serif: "Nunito Sans", sans-serif;
+
+// import bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
